@@ -1,0 +1,6 @@
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\bin\Debug\Chpt2_Literals.exe.config
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\bin\Debug\Chpt2_Literals.exe
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\bin\Debug\Chpt2_Literals.pdb
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\obj\Debug\Chpt2_Literals.csprojAssemblyReference.cache
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\obj\Debug\Chpt2_Literals.exe
+E:\Lukasz\Programming\CSharp\Chpt2_Literals\Chpt2_Literals\obj\Debug\Chpt2_Literals.pdb
